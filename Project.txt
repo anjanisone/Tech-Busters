@@ -1,0 +1,1 @@
+We are building an algorithm that can identify multiple objects in a live video, but our ultimate aim to customise it that It can identify all the citizens of India, for a country where safety is the first priority.
